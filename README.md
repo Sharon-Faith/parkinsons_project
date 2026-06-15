@@ -48,3 +48,5 @@ To improve results:
 ## Support and contact details
 Github account: Sharon-Faith
 
+## License
+All rights reserved. Copyright (c) {2026} **Sharon Faith**
