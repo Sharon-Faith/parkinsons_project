@@ -26,7 +26,7 @@ Data Cleaning ➡️ EDA and Preprocessing ➡️ Model Training and Evaluation
 * Support Vector Machines
 
 ## Results
-The best performing model was XGBoost, with a recall of 96.4%, f1 score of 85.42%.
+The best performing model was XGBoost, with a recall of 95.4%, f1 score of 85.42%.
 
 <img width="835" height="793" alt="image" src="https://github.com/user-attachments/assets/96897dca-558a-456b-9074-33f52861267c" />
 
